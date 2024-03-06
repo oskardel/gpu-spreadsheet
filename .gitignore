@@ -1,0 +1,5 @@
+# Ignore the virtual enviroment files
+.venv/
+
+# Ignore credentials file
+credentials.json
